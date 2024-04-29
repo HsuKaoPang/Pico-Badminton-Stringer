@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Pico Stringer\Project Outputs for Pico_Stringer\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/04/24
+Time:       17:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint      Center-X(mil) Center-Y(mil) Rotation Description                                  
+VR1        AMS1117-5.0    TopLayer AMS1117        1905.512      2586.615      180      "Voltage Regulator"                          
+C4         10uF           TopLayer C1210_M        2185.040      2633.858      270      ?片?容                                         
+C2         10uF           TopLayer C1210_M        1645.670      2637.795      270      ?片?容                                         
+R8         0K             TopLayer 6-0805_M       4157.480      2507.874      360      ?片?阻                                         
+C3         104            TopLayer 6-0805_M       2354.330      2661.418      270      ?片?容                                         
+C1         104            TopLayer 6-0805_M       1653.544      2870.078      270      ?片?容                                         
+J8         HX711          TopLayer HX711_MODULE   4323.228      2328.346      0        "HX711 module"                               
+U2         HX711          TopLayer SOP16          4267.716      2755.406      270      ""                                           
+U1         "Pi Pico"      TopLayer PICO           2804.332      2590.156      90       ""                                           
+R11        100            TopLayer 6-0805_M       3980.316      3248.032      270      ?片?阻                                         
+R10        100            TopLayer 6-0805_M       4236.220      3248.032      270      ?片?阻                                         
+R9         8.2K           TopLayer 6-0805_M       4110.886      3027.560      90       ?片?阻                                         
+R7         20K            TopLayer 6-0805_M       3972.442      3027.560      90       ?片?阻                                         
+R6         10K            TopLayer 6-0805_N       4330.709      2507.874      0        ?片?阻                                         
+R5         Res1           TopLayer AXIAL-0.3      3547.244      1843.898      180      Resistor                                     
+R4         Res1           TopLayer AXIAL-0.3      5381.890      1625.984      360      Resistor                                     
+R3         Res1           TopLayer AXIAL-0.3      5381.890      1738.188      360      Resistor                                     
+R2         Res1           TopLayer AXIAL-0.3      2874.016      3181.102      360      Resistor                                     
+R1         Res1           TopLayer AXIAL-0.3      5381.890      1850.394      360      Resistor                                     
+Q2         MMBT4403       TopLayer SOT23-3L       4561.989      3008.229      180      高?放大-PNP型                                    
+Q1         SS8050         TopLayer TO92A          3169.292      1916.260      0        高?放大-NPN型                                    
+LS1        Buzzer         TopLayer Buzzer         4122.047      1862.204      360      "Magnetic Transducer Buzzer"                 
+L1         10uH           TopLayer L_1210         4566.930      3287.402      90       小功率?片?感                                      
+JP1        HDR-1X2        TopLayer XH2.54-LI-2P   1464.568      2011.812      90       5V                                           
+J9         20KG           TopLayer HDR1X4         4304.330      3500.000      360      "Keyes Hx711 module"                         
+J7         "2004 LCD"     TopLayer HDR1X4         1409.448      2652.362      90       "2004 I2C LCD"                               
+J6         "5-way switch" TopLayer 5WAY_SWITCH    6717.087      2846.634      0        6P接插件                                        
+J5         "Exit Botton"  TopLayer 12x12mm_SWITCH 7986.221      2255.905      0        2P接插件                                        
+J4         STEPPER        TopLayer XH2.54-LI-4P   3481.496      3537.370      360      "DIR PUL"                                    
+J3         "Rear Limit"   TopLayer XH2.54-LI-2P   2892.520      3539.370      360      2P接插件                                        
+J2         "Front Limit"  TopLayer XH2.54-LI-2P   2346.646      3539.370      0        2P接插件                                        
+J1         "Botton head"  TopLayer XH2.54-LI-2P   1804.330      3539.370      0        2P接插件                                        
+D4         LED_R          TopLayer 10mm_LED       5402.756      2145.670      360      "Typical RED, GREEN, YELLOW, AMBER GaAs LED" 
+D3         LED_Y          TopLayer 10mm_LED       5402.756      2858.268      0        "Typical RED, GREEN, YELLOW, AMBER GaAs LED" 
+D2         LED_G          TopLayer 10mm_LED       5402.756      3570.866      360      "Typical RED, GREEN, YELLOW, AMBER GaAs LED" 
+D1         IN5819         TopLayer DO-41          2222.835      3177.166      360      "Schottky Diode"                             
+C11        104            TopLayer 6-0805_M       4110.886      3248.330      90       ?片?容                                         
+C10        104            TopLayer 6-0805_M       4249.336      3027.560      270      ?片?容                                         
+C9         10uF           TopLayer C1210_M        4389.764      3282.796      90       ?片?容                                         
+C8         104            TopLayer 6-0805_M       4387.774      3027.560      90       ?片?容                                         
+C7         10uF           TopLayer C1210_M        4631.890      2543.308      0        ?片?容                                         
+C6         104            TopLayer 6-0805_M       4599.394      2685.040      0        ?片?容                                         
+C5         104            TopLayer 6-0805_M       4599.394      2790.748      0        ?片?容                                         
