@@ -1,13 +1,13 @@
 
 # Pico Stringer
 
-The project is my version of how to make a badmintion stringer, based on [PicoBETH](https://github.com/206cc/PicoBETH) DIY badminton stringer prjoect. 
+The project is my version of how to make a badminton stringer, based on [PicoBETH](https://github.com/206cc/PicoBETH) DIY badminton stringer prjoect. 
 
 ## Modification
 Compare to original PicoBETH project, several modifications are listed below. 
 
 ### Hardware:
-1. Based on a simple badmintion stringer, which I bought from [Taobao](https://item.taobao.com/item.htm?_u=t20cga269s9bcb&id=737728917603&spm=a1z09.2.0.0.3fa02e8dvmYHSh). the stringer is made mostly by 2020 and 2060 alumium extrusions.
+1. Based on a simple badminton stringer, which I bought from [Taobao](https://item.taobao.com/item.htm?_u=t20cga269s9bcb&id=737728917603&spm=a1z09.2.0.0.3fa02e8dvmYHSh). the stringer is made mostly by 2020 and 2060 alumium extrusions.
 
 2. Applying extra 2060 alumium extrusions and alumium extrusion parts as the project's platform.
 3. GX-80 1610 double-guided liner guideway with 200mm stroke is adopted.
