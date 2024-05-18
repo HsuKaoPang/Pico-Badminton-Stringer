@@ -11,10 +11,9 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D12
-    D84
-    D85
-    D86
+    D79
+    D80
+    D81
 *************************************************************
 
 *************************************************************
@@ -27,7 +26,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D84
+    D79
 *************************************************************
 
 *************************************************************
@@ -42,6 +41,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D35
+    D36
+    D37
     D38
     D39
     D40
@@ -58,15 +60,11 @@ Used DCodes :
     D51
     D52
     D53
-    D54
-    D55
-    D56
-    D57
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Pico_Stringer_PCB.GPT
+Generating : Top Layer
+      File : Pico_Stringer_PCB.GTL
 
     Adding Layer      : Top Layer
 
@@ -74,6 +72,8 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D10
+    D13
     D16
     D17
     D18
@@ -83,8 +83,14 @@ Used DCodes :
     D22
     D23
     D24
-    D25
-    D38
+    D39
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
     D61
     D62
     D63
@@ -100,23 +106,6 @@ Used DCodes :
     D73
     D74
     D75
-    D76
-    D77
-    D78
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Pico_Stringer_PCB.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D81
-    D82
-    D83
 *************************************************************
 
 *************************************************************
@@ -131,7 +120,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D15
     D16
     D17
     D18
@@ -141,12 +129,24 @@ Used DCodes :
     D22
     D23
     D24
-    D25
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Pico_Stringer_PCB.GPB
+Generating : Mechanical 15
+      File : Pico_Stringer_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Pico_Stringer_PCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -154,7 +154,14 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D38
+    D13
+    D39
+    D54
+    D56
+    D57
+    D58
+    D59
+    D60
     D61
     D62
     D63
@@ -170,10 +177,6 @@ Used DCodes :
     D73
     D74
     D75
-    D76
-    D77
-    D78
-    D79
 *************************************************************
 
 *************************************************************
@@ -188,6 +191,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D25
     D26
     D27
     D28
@@ -216,86 +220,11 @@ Used DCodes :
     D51
     D52
     D53
-    D54
-    D55
-    D56
-    D57
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Pico_Stringer_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Pico_Stringer_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D58
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Pico_Stringer_PCB.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Pico_Stringer_PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Pico_Stringer_PCB.GTL
+Generating : Top Pad Master
+      File : Pico_Stringer_PCB.GPT
 
     Adding Layer      : Top Layer
 
@@ -303,8 +232,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D15
-    D16
     D17
     D18
     D19
@@ -313,8 +240,9 @@ Used DCodes :
     D22
     D23
     D24
-    D25
-    D38
+    D39
+    D56
+    D57
     D58
     D59
     D60
@@ -331,12 +259,74 @@ Used DCodes :
     D71
     D72
     D73
-    D74
-    D75
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Pico_Stringer_PCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
     D76
-    D77
-    D78
-    D79
-    D80
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Pico_Stringer_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Pico_Stringer_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Pico_Stringer_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
 *************************************************************
 
