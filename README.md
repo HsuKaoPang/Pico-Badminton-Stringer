@@ -1,6 +1,6 @@
 
 # Pico Stringer
-
+![images1-1](Photos/P1-2.jpg)
 The project is my version of how to make a badminton stringer, based on [PicoBETH](https://github.com/206cc/PicoBETH) DIY badminton stringer prjoect. 
 I published the assemable guildline on [Instructables](https://www.instructables.com/DIY-Electric-Badminton-Stringers/). 
 
