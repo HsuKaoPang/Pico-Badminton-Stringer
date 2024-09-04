@@ -18,6 +18,14 @@ In my past experience, DM542C could run stepper motor smoother and quieter then 
 5. Custom-designed PCB board.
 6. Intergrated HX711 layout based on [Sparkfun hx711 module](https://www.sparkfun.com/products/13879)
 
+PCB V2.0 Updated:
+1. Shrink PCB size to 55.00 x 176.00 mm
+2. Extra 12V power pin is preserved for further stepper motor driver development.
+3. rearrangement of connector pin.
+4. 5-way switch intergrated.
+5. polygon poured on both side.
+
+
 ### Software:
 [main.py]() is slightly modified to fit DM542C driver.
 
